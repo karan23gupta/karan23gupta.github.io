@@ -6,6 +6,7 @@ author: nt
 tags: [deals, abbotsford]     # TAG names should always be lowercase
 ---
 
+![alt text for screen readers](assets/images/sale.jpg "Deals of the day")
 
 ## Save Big on Your Grocery Shopping!
 

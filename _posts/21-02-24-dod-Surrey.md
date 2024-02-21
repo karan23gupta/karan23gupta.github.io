@@ -6,6 +6,7 @@ author: ct
 tags: [deals,surrey]     # TAG names should always be lowercase
 ---
 
+![alt text for screen readers](assets/images/sale.jpg "Deals of the day")
 
 ## Grab These Deals Today!
 

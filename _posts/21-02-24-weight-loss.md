@@ -6,6 +6,8 @@ author: kg
 tags: [meals, weight loss]     # TAG names should always be lowercase
 ---
 
+![alt text for screen readers](assets/images/weightLoss.jpg "Loose weight easy!!!")
+
 
 Losing weight can be challenging, but it doesn't have to be boring! If you're looking for some creative meal ideas to spice up your weight loss journey, look no further. We've rounded up five delicious and satisfying meals that are not only easy to make but also help you shed those extra pounds.
 

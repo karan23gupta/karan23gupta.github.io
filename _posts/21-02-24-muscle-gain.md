@@ -6,6 +6,8 @@ author: kg
 tags: [meals, muscle, gains]     # TAG names should always be lowercase
 ---
 
+![alt text for screen readers](assets/images/muscle.jpg "Get big guns")
+
 
 Are you looking to pump up those muscles but tired of the same old boring meals? We've got you covered! Here are five tasty and creative meal ideas to help you on your journey to gaining muscle.
 
